@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: c5722c456655054488f26dfb1ce01776
+  productGUID: 0679b6f8671ed3a47ad56ad3992f94e4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -603,8 +603,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: bc890dcb-925e-4e32-ab9a-c1b08c900be9
-  projectName: GameJam2
+  cloudProjectId: 7c188abe-2016-4376-9b4c-9aaf9c79e82b
+  projectName: GameJam2 (1)
   organizationId: meeralq
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
